@@ -1,0 +1,28 @@
+body {
+  font-family: "微軟正黑體", sans-serif;
+  background-color: #f3f3f3;
+  padding: 20px;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#response {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
